@@ -8,4 +8,9 @@
 https://github.com/new
 
 
-## 3. 白嫖
+## 3. 配置
+
+https://picgo.github.io/PicGo-Doc/zh/guide/config.html#github%E5%9B%BE%E5%BA%8A
+
+
+## 4. 使用
